@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yoga News</string>
+    <string name="yoga">yogi</string>
+    <string name="slogan">Thew Guardian News</string>
+    <string name="newsfeed">News Feed</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
